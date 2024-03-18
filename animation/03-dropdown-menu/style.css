@@ -33,7 +33,7 @@
   display: none;
 
   animation: menu-scale-bounce .5s;
-  transform-origin: 50% 0;
+  transform-origin: top;
 }
 
 ul.dropdown-menu li:hover {
